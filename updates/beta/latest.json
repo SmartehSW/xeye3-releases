@@ -1,8 +1,8 @@
 {
   "channel": "beta",
-  "version": "0.1.20",
-  "full": "0.1.20-beta",
-  "downloadUrl": "https://github.com/SmartehSW/xeye3-releases/releases/download/v0.1.20-beta/xEye.3.0.-.0.1.20-beta.exe",
-  "notes": "xEye 3.0 0.1.20-beta",
-  "sha256": "5ba8af50e9859b9ad978c05d31a807f69b2e68e2c00fc54c6936fd8b7fb44308"
+  "version": "0.1.21",
+  "full": "0.1.21-beta",
+  "downloadUrl": "https://github.com/SmartehSW/xeye3-releases/releases/download/v0.1.21-beta/xEye.3.0.-.0.1.21-beta.exe",
+  "notes": "xEye 3.0 0.1.21-beta",
+  "sha256": "0891f2081016b793bd100bd7c0233cc344d6edca938bc6dec8c6c25cd9a43733"
 }
